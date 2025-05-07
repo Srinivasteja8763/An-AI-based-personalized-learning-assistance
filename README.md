@@ -27,7 +27,6 @@ Built with **Streamlit** and powered by **Google Gemini API**, NoteFusion stream
 1. **Clone the repository**  
 ```bash
 git clone https://github.com/Srinivasteja8763/An-AI-based-personalized-learning-assistance.git
-cd NoteFusion
 ```
 
 2. **Install dependencies**  
