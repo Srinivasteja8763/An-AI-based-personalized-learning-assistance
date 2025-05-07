@@ -1,13 +1,13 @@
-# An-AI-based-personalized-learning-assistance
+# An-AI-based-personalized-learning-assistance for enhanced learning
 
 
-# 📘 NoteFusion
+# NoteFusion
 
  This project is an AI-powered educational assistant that helps students by:
-- 📸 Converting images or screenshots into structured notes
-- 📚 Summarizing textbook content
-- 🗺 Generating personalized study roadmaps in PDF format
-- ✍ Creating custom books on user-specified topics
+-  Converting images or screenshots into structured notes
+-  Summarizing textbook content
+-  Generating personalized study roadmaps in PDF format
+-  Creating custom books on user-specified topics
 
 Built with **Streamlit** and powered by **Google Gemini API**, NoteFusion streamlines learning through intelligent content processing.
 
@@ -26,7 +26,7 @@ Built with **Streamlit** and powered by **Google Gemini API**, NoteFusion stream
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/your-username/NoteFusion.git
+git clone https://github.com/Srinivasteja8763/An-AI-based-personalized-learning-assistance.git
 cd NoteFusion
 ```
 
@@ -38,12 +38,12 @@ pip install -r requirements.txt
 3. **Set up environment variables**  
 Create a `.env` file in the root directory and add your Gemini API key:
 ```
-GOOGLE_API_KEY=your_google_generativeai_key
+GOOGLE_API_KEY="AIzaSyBa4VymN-MR5vV-lWRIcZVwRxZa8SLAVf4"
 ```
 
 ---
 
-## 🧪 Usage
+##  Usage
 
 Run the Streamlit app:
 ```bash
@@ -54,7 +54,7 @@ Then open the URL provided in your terminal (usually `http://localhost:8501`) in
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 - streamlit
 - google-generativeai
@@ -66,14 +66,10 @@ Then open the URL provided in your terminal (usually `http://localhost:8501`) in
 
 ---
 
-## 📝 Notes
+##  Notes
 
 - Ensure your `.env` file is not uploaded to public repositories.
 - The app uses Google's `gemini-1.5-flash-latest` model for all content generation.
 - PDF generation requires valid HTML — avoid using Markdown formatting.
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
