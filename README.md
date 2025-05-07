@@ -66,7 +66,6 @@ Then open the URL provided in your terminal (usually `http://localhost:8501`) in
 
 ---
 
-##  Notes
 
 - Ensure your `.env` file is not uploaded to public repositories.
 - The app uses Google's `gemini-1.5-flash-latest` model for all content generation.
